@@ -46,7 +46,7 @@ section {
     display: flex;
     flex-direction:row;
     flex-wrap:wrap;
-    max-width: 1200px;
+    width: 1200px;
     margin: auto;
     color: white;
     /* background-color: rgba(6, 4, 58, 0.887); */
